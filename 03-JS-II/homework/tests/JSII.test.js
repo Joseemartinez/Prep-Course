@@ -118,7 +118,7 @@ describe('esEntero(num)', function() {
   });
   it('should return true for 0', function() {
     expect(esEntero(0)).toBe(true);
-  });
+  });33
 });
 
 describe('fizzBuzz(num)', function() {
